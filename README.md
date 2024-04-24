@@ -1,5 +1,5 @@
 
-<img src="https://github.com/LuddeM/portfolio-page/blob/master/src/assets/images/png/projects/procedural-trees/procedurally-generated-trees.png" width="560px"/>
+<img src="https://github.com/LuddeM/LuddeM.github.io/blob/master/img/procedurally-generated-trees.baea6c68.png" width="560px"/>
 
 # Procedurally Generated Trees, Created in Unity (C#)
 
@@ -22,7 +22,7 @@ The project was nominated for the Norrköping Visualization Center's C-Awards 20
     - What each setting means is best understood by reading the scientific paper and looking at the implementation.
 
 <p align="center">
-  <img src="https://github.com/LuddeM/portfolio-page/blob/master/src/assets/images/png/projects/procedural-trees/standard-tree-settings.png" width="420px"/>
+  <img src="https://github.com/LuddeM/LuddeM.github.io/blob/master/img/standard-tree-settings.015e19b2.png" width="420px"/>
 </p>
 
 ## Building the Project
